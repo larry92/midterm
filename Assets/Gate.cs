@@ -1,5 +1,9 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
+
+
+
+
 
 // PUT THIS SCRIPT ON A "KEY" object with a trigger-collider
 public class Gate : MonoBehaviour {
